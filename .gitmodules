@@ -1,0 +1,9 @@
+[submodule "scrummin.frontendproject"]
+	path = scrummin.frontendproject
+	url = https://github.com/eaamikkelmedetk/scrummindotcom-frontend.git
+[submodule "scrummin.backendproject"]
+	path = scrummin.backendproject
+	url = https://github.com/eaamikkelmedetk/scrummindotcom-backend
+[submodule "scrummindotcom-backend"]
+	path = scrummindotcom-backend
+	url = https://github.com/eaamikkelmedetk/scrummindotcom-backend
